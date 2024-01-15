@@ -95,6 +95,8 @@ video{
     margin-bottom: 100px;
     padding: 106px 185px;
     background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url( '../images/Group\ 13\ \(1\)\ \(1\).png' );
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 500px;
     border-radius: 16px;
     text-align: center;

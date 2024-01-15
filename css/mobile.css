@@ -1,4 +1,4 @@
-@media screen and ( max-width: 600px ) {
+@media screen and ( max-width: 375px ) {
     
     .main-header .container .site-navbar span i.fa-solid{
         display: table;
@@ -23,7 +23,39 @@
         margin-right: 9.99px;
     }
 
+    .hero-banner-section .container{
+        margin: 20px 20px;
+        padding: 32px 16px;
+        width: 335px;
+        height: auto;
+    }
 
-    
+    .hero-banner-section .container h1{
+        font-size: 22px;
+    }
+
+    .hero-banner-section .container p{
+        margin: 12px auto 32px;
+        line-height: 21px;
+        font-size: 14px;
+        width: 306px;
+    }
+
+    .hero-banner-search-section{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .common{
+        width: 100%;
+    }
+
+    .hero-banner-section a{
+        width: 100%;
+    }
+
+
+
 
 }
