@@ -90,5 +90,77 @@ video{
     display: none;
 }
 
+.hero-banner-section .container{
+    margin-top: 49px;
+    margin-bottom: 100px;
+    padding: 106px 185px;
+    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url( '../images/Group\ 13\ \(1\)\ \(1\).png' );
+    height: 500px;
+    border-radius: 16px;
+    text-align: center;
+    color: #fff;
+}
+
+.hero-banner-section .container h1{
+    font-size: 64px;
+    font-weight: 800;
+    text-transform: capitalize;
+    margin: 0;
+}
+
+.hero-banner-section .container p{
+    margin: 24px auto 48px;
+    line-height: 26px;
+    font-size: 16px;
+    font-weight: 400;
+    width: 676px;
+}
+
+.hero-banner-search-section{
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.30);
+    padding: 16px;
+    display: inline-flex;
+    gap: 24px;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.common{
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(19, 19, 24, 0.50);
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+}
+
+.hero-banner-section a{
+    background-color: #ff5400;
+    width: 174px;
+    height: 52px;
+    padding: 14px 35px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.hero-banner-section a span.search-icon{
+    width: 24px;
+    height: 24px;
+    fill: #fff;
+    position: relative;
+    top: 3px;
+    left: -10px;
+}
+
 
 
