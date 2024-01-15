@@ -85,6 +85,86 @@
         margin-bottom: 24px;
     }
 
+    .destination-section .container{
+        margin-bottom: 24px;
+    }
+
+    .destination-section .container h2{
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .destination-section .container p{
+        font-size: 14px;
+        margin-bottom: 16px;
+        width: 309px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .picture-collage{
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .picture-collage div h4{
+        font-size: 20px;
+    }
+
+    .picture-collage div, .picture-collage .picture-collage-div-03, .picture-collage .picture-collage-div-04, .picture-collage .picture-collage-div-05{
+        height: 176px;
+    }
+
+    .picture-collage .picture-collage-div-01 > h4{
+        top: 75px;
+        bottom: 76px;
+        left: 126px;
+        right: 124px;
+    }
+    
+    .picture-collage .picture-collage-div-02 > h4{
+        top: 75px;
+        bottom: 75px;
+        left: 121px;
+        right: 121px;
+    }
+    
+    .picture-collage .picture-collage-div-03 > h4{
+        top: 75px;
+        bottom: 76px;
+        left: 127px;
+        right: 126px;
+    }
+    
+    .picture-collage .picture-collage-div-04 > h4{
+        top: 75px;
+        bottom: 76px;
+        left: 98px;
+        right: 97px;
+    }
+    
+    .picture-collage .picture-collage-div-05 > h4{
+        top: 75px;
+        bottom: 76px;
+        left: 128px;
+        right: 128px;
+    }
+    
+    .picture-collage .picture-collage-div-06 > h4{
+        top: 75px;
+        bottom: 76px;
+        left: 111px;
+        right: 111px;
+    }
+    
+    .picture-collage .picture-collage-div-07 > h4{
+        top: 75px;
+        bottom: 76px;
+        left: 114px;
+        right: 113px;
+    }
+
 
 
 
