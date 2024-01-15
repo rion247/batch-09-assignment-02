@@ -87,19 +87,18 @@
 
     .destination-section .container{
         margin-bottom: 24px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
 
     .destination-section .container h2{
         font-size: 20px;
-        font-weight: 800;
     }
 
     .destination-section .container p{
         font-size: 14px;
         margin-bottom: 16px;
         width: 309px;
-        margin-left: auto;
-        margin-right: auto;
     }
 
     .picture-collage{
@@ -165,6 +164,47 @@
         right: 113px;
     }
 
+    .why-choose-us-section .container{
+        margin-bottom: 56px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .why-choose-us-section .container h2{
+        font-size: 20px;
+    }
+
+    .why-choose-us-section .container p{
+        font-size: 14px;
+        width: 309px;
+        margin-bottom: 16px;
+    }
+
+    .why-choose-us-section .container .why-choose-us-section-col{
+        flex-direction: column;
+    }
+
+    .why-choose-us-section .container .why-choose-us-section-col .why-choose-us-section-col-1, .why-choose-us-section .container .why-choose-us-section-col .why-choose-us-section-col-2, .why-choose-us-section .container .why-choose-us-section-col-3{
+        width: 100%;
+    }
+
+    .why-choose-us-section .container .why-choose-us-section-col .why-choose-us-section-col-1 img, .why-choose-us-section .container .why-choose-us-section-col .why-choose-us-section-col-2 img, .why-choose-us-section .container .why-choose-us-section-col-3 img{
+        width: 48px;
+        height: 48px;
+    }
+
+    .why-choose-us-section .container .why-choose-us-section-col .why-choose-us-section-col-1 h4, .why-choose-us-section .container .why-choose-us-section-col .why-choose-us-section-col-2 h4, .why-choose-us-section .container .why-choose-us-section-col-3 h4{
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .why-choose-us-section .container .why-choose-us-section-col .why-choose-us-section-col-1 p, .why-choose-us-section .container .why-choose-us-section-col .why-choose-us-section-col-2 p, .why-choose-us-section .container .why-choose-us-section-col-3 p{
+        font-size: 14px;
+        line-height: 24px;
+        width: 271px;
+        margin: 0;
+        text-align: justify;
+    }
 
 
 
