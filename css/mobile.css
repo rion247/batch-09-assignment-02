@@ -1,3 +1,29 @@
 @media screen and ( max-width: 600px ) {
     
+    .main-header .container .site-navbar span i.fa-solid{
+        display: table;
+        font-size: 24px;
+    }
+
+    .main-header .container .site-navbar .navigation-items{
+        display: none;
+    }
+
+    .main-header .container .site-navbar{
+        margin: 20px;
+    }
+
+    .main-header .container .site-navbar .site-logo > a{
+        font-size: 1.34rem;        
+    }
+
+    .main-header .container .site-navbar .site-logo a img{
+        width: 28.724px;
+        height: 33.516px;
+        margin-right: 9.99px;
+    }
+
+
+    
+
 }

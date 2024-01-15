@@ -26,3 +26,69 @@ video{
     margin: 0 auto;
 }
 
+.main-header .container .site-navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 52px;
+}
+
+.main-header .container .site-navbar .site-logo > a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    font-size: 2.25rem;
+    font-weight: 800;
+    color: #131318;
+    text-transform: capitalize;
+}
+
+.main-header .container .site-navbar .site-logo a img{
+    width: 48px;
+    height: 56.008px;
+    object-fit: contain;
+    margin-right: 16px;
+}
+
+.main-header .container .site-navbar .site-logo a h2{
+    margin: 0;
+}
+
+.main-header .container .site-navbar .site-logo > a span.logo-text-color{
+    color: #ff5400;
+}
+
+.main-header .container .site-navbar .navigation-items ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.main-header .container .site-navbar .navigation-items ul li{
+    list-style: none;
+    margin-right: 44px;
+}
+
+.main-header .container .site-navbar .navigation-items ul li a{
+    text-decoration: none;
+    color: #424247;
+    font-size: 1.125rem;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.main-header .container .site-navbar .navigation-items ul li:first-child a{
+    color: #ff5400;
+}
+
+.main-header .container .site-navbar .navigation-items ul li:last-child{
+    margin-right: 0;
+}
+
+.main-header .container .site-navbar span i.fa-solid{
+    display: none;
+}
+
+
+
