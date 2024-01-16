@@ -435,6 +435,146 @@ video{
     margin-top: 8px;
 }
 
+.deals-discounts-section .container h2{
+    color: #131318;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.deals-discounts-section .container p{
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 48px;
+    text-align: center;
+    width: 643px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01{
+    width: 100%;
+    height: 500px;
+    background-image: url('../images/Group\ 39.png');
+    background-size: cover;
+    position: relative;
+    margin-bottom: 24px;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content{
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+    position: relative;
+    width: 579px;
+    height: 389px;
+    top: 56px;
+    right: 56px;
+    left: 535px;
+    bottom: 55px;
+    padding: 50px;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top .div-left, 
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top .div-center, 
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top .div-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 24px;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top .div-left svg, 
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top .div-center svg, 
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top .div-right svg{
+    fill: #ff5400;
+    margin-right: 8px;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top .div-left h6, 
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top .div-center h6, 
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top .div-right h6{
+    margin: 0;
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content h2{
+    margin-top: 24px;
+    margin-bottom: 16px;
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: justify;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content p{
+    margin: 0;
+    margin-bottom: 16px;
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 452px;
+    text-align: start;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content h3{
+    color: #ff5400;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content a{
+    display: table;
+    color: #fff;
+    background-color: #ff5400;
+    border-radius: 8px;
+    padding: 14px 24px;
+    font-size: 20px;
+    font-weight: 800;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.deals-discounts-section .container .deals-discounts-section-row-01 .row02{
+    top: 56px;
+    bottom: 55px;
+    right: 535px;
+    left: 56px;
+}
+
+.deals-discounts-section .container > a{
+    display: table;
+    margin-top: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+    background-color: #ff5400;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 22px;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 8px;
+    text-transform: capitalize;
+}
+
+
+
 
 
 
