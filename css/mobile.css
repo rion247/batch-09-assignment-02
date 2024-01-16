@@ -255,6 +255,7 @@
         margin-left: 20px;
         margin-right: 20px;
         flex-direction: column;
+        margin-bottom: 24px;
     }
 
     .newsletter-section .container .newsletter-section-col-01{
@@ -299,6 +300,31 @@
     
     .newsletter-section .container .newsletter-section-col-02 .save70 h2{
         font-size: 21px;
+    }
+
+    .site-footer{
+        margin: 0px auto;
+        padding: 32px 44px;
+    }
+
+    .site-footer .site-footer-row-01 .site-logo-footer a img{
+        width: 28px;
+        height: 33px;
+    }
+
+    .site-footer .site-footer-row-01 .site-logo-footer a h2{
+        font-size: 21px;
+    }
+
+    .site-footer .site-footer-row-01 p{
+        width: 287px;
+        line-height: 24px;
+        margin-bottom: 16px;
+    }
+
+    .site-footer > p{
+        margin-top: 24px;
+        font-size: 14px;
     }
     
    
