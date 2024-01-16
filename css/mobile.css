@@ -208,4 +208,49 @@
 
 
 
+
+
+
+    .video-section .container{
+        flex-direction: column;
+        margin: 24px 20px;
+    }
+
+    .video-section .container .video-section-col-01{
+        width: 100%;
+    }
+
+    .video-section .container .video-section-col-01 h2{
+        font-size: 20px;
+        line-height: 30px;
+        width: 248px;
+        margin-bottom: 16px;
+    }
+
+    .video-section .container .video-section-col-01 p, .video-section .container .video-section-col-01 ol li{
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 16px;
+        width: 335px;
+    }
+
+    .video-section .container .video-section-col-01 ol li{
+        margin-bottom: 24px;
+    }
+
+    .video-section .container .video-section-col-2 h4{
+        top: 70px;
+        bottom: 70px;
+        left: 30px;
+        right: 30px;
+        line-height: 30px;
+    }
+
+    .video-section .container .video-section-col-2{
+        margin-top: 24px;
+        width: 100%;
+    }
+   
+
+
 }
