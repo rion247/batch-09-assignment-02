@@ -165,7 +165,7 @@
     }
 
     .why-choose-us-section .container{
-        margin-bottom: 56px;
+        margin-bottom: 24px;
         margin-left: 20px;
         margin-right: 20px;
     }
@@ -206,10 +206,67 @@
         text-align: justify;
     }
 
+    .deals-discounts-section .container{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 
+    .deals-discounts-section .container h2{
+        font-size: 20px;
+    }
 
+    .deals-discounts-section .container p{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        margin-bottom: 16px;
+        width: 309px;
+    }
 
+    .deals-discounts-section .container .deals-discounts-section-row-01{
+        width: 335px;
+        height: 500px;
+    }
 
+    .deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content{
+        width: 303px;
+        height: auto;
+        top: 140px;
+        right: 16px;
+        left: 16px;
+        bottom: 16px;
+        padding: 24px;
+    }
+
+    .deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content .div-top{
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content h2{
+        margin-top: 16px;
+        margin-bottom: 8px;
+        color: #131318;
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content p{
+        margin-bottom: 12px;
+        font-size: 14px;
+        line-height: 24px;
+        width: 254px;
+    }
+
+    .deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content h3{
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+
+    .deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content a{
+        padding: 9px 21px;
+        font-size: 18px;
+    }
 
     .video-section .container{
         flex-direction: column;

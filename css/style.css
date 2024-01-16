@@ -462,6 +462,7 @@ video{
     background-size: cover;
     position: relative;
     margin-bottom: 24px;
+    border-radius: 16px;
 }
 
 .deals-discounts-section .container .deals-discounts-section-row-01 .deals-discounts-section-row-01-content{
